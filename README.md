@@ -2,7 +2,7 @@
 
 ### my name is sematary
 
-![my photo](https://i.pinimg.com/736x/ed/16/c0/ed16c04e92dbeee65ecd5d9046ac95ea.jpg)
+![my photo](https://f4.bcbits.com/img/a0179859345_10.jpg)
 
 *There is example of my code:*
 ```javascript
